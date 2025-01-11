@@ -1,0 +1,1 @@
+App Weather giao diện cơ bản, 1 editText để nhập tên thành phố và 1 button để call API từ WeatherAPI lấy thông tin thời tiết hiện tại hiển thị trên giao diện chính và thông tin thời tiết trong ngày hiện dưới giao diện RecycleView
